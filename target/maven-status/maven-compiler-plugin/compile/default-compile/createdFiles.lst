@@ -1,0 +1,14 @@
+com/thermo/app/SettingsCellBoxView.class
+com/thermo/app/DataService.class
+com/thermo/app/ThermoView.class
+com/thermo/app/CellThermo.class
+com/thermo/app/SettingsCellBoxController.class
+com/thermo/app/IThermoObserver.class
+com/thermo/app/ManualHeatStrategy.class
+com/thermo/app/LogsInfo.class
+com/thermo/app/TargetHeatStrategy.class
+com/thermo/app/CellFactory.class
+com/thermo/app/ThermoController.class
+com/thermo/app/Main.class
+com/thermo/app/ICellObservable.class
+com/thermo/app/IStrategyHeat.class

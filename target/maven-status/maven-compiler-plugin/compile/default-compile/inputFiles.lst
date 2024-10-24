@@ -1,0 +1,12 @@
+/home/helb/Desktop/HELBThermo/HELBThermo/src/main/java/com/thermo/app/Main.java
+/home/helb/Desktop/HELBThermo/HELBThermo/src/main/java/com/thermo/app/ThermoController.java
+/home/helb/Desktop/HELBThermo/HELBThermo/src/main/java/com/thermo/app/SettingsCellBoxController.java
+/home/helb/Desktop/HELBThermo/HELBThermo/src/main/java/com/thermo/app/SettingsCellBoxView.java
+/home/helb/Desktop/HELBThermo/HELBThermo/src/main/java/com/thermo/app/IStrategyHeat.java
+/home/helb/Desktop/HELBThermo/HELBThermo/src/main/java/com/thermo/app/CellFactory.java
+/home/helb/Desktop/HELBThermo/HELBThermo/src/main/java/com/thermo/app/ICellObservable.java
+/home/helb/Desktop/HELBThermo/HELBThermo/src/main/java/com/thermo/app/DataService.java
+/home/helb/Desktop/HELBThermo/HELBThermo/src/main/java/com/thermo/app/IThermoObserver.java
+/home/helb/Desktop/HELBThermo/HELBThermo/src/main/java/com/thermo/app/LogsInfo.java
+/home/helb/Desktop/HELBThermo/HELBThermo/src/main/java/com/thermo/app/CellThermo.java
+/home/helb/Desktop/HELBThermo/HELBThermo/src/main/java/com/thermo/app/ThermoView.java
